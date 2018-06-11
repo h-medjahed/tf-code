@@ -1,0 +1,13 @@
+tenant_id=""
+client_id=""
+client_secret=""
+subscription_id="d"
+
+region="westeurope"
+resource_group_name="rgdemo"
+vnet_name="vnetdemo"
+cidr_block="10.0.0.0/16"
+subnet_name="subnetdemo"
+subnet_cidr_block="10.0.0.0/24"
+vm_username="azureuser"
+public_key=""
