@@ -1,0 +1,9 @@
+.terraform
+aws/aws-vpn/.terraform
+aws/aws-vpn/*.tfstate
+aws/aws-vpn/*.png
+aws/aws-vpn/*.backup
+azure/azure-vnet/.terraform
+azure/azure-vnet/*.tfstate
+azure/azure-vent/*.png
+azure/azure-vent/*.backup
